@@ -8,6 +8,8 @@ inventario = {
     "camisa": {"precio": 50000, "descuento": 10},
     "pantalon": {"precio": 80000, "descuento": 0},
     "zapatos": {"precio": 120000, "descuento": 20},
+    "blusa": {"precio": 100000, "descuento": 5},
+    "botas": {"precio": 200000, "descuento": 15},
 }
 
 def consultar_producto(nombre_producto):
