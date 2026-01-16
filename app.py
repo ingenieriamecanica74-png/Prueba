@@ -73,7 +73,7 @@ html = """
 </head>
 <body>
     <div class="chatbox">
-        <h2>🤖 ChatBot Inventario</h2>
+        <h2>💯 ChatBot #O1 Herman</h2>
         <form method="POST">
             <input type="text" name="producto" placeholder="Ej: camisa" required>
             <button type="submit">Consultar</button>
